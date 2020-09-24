@@ -1,4 +1,5 @@
-import MyButton from './MyButton.js';
+import MyButton from './MyButton.vue';
+// import MyButton from './MyButton.js'; // bug
 
 export default {
   title: 'MyButton',
